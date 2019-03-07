@@ -15,11 +15,12 @@
 
 ## Projects
 
-list up my projects about open source. emoji 🏗️ means is a project currently underway.
+- list up my projects about open source.
+- emoji 🏗️ means is a project currently underway.
 
 
 
-## Maching Learing
+## Study
 
 - [DeepLearning-Study](https://github.com/graykode/DeepLearning-Study)🏗️ : This is repository for DeepLearning Study in Kyung Hee University, D.COM  [![GitHub stars](https://img.shields.io/github/stars/graykode/DeepLearning-Study.svg)](https://github.com/graykode/DeepLearning-Study/stargazers)
 
@@ -27,17 +28,18 @@ list up my projects about open source. emoji 🏗️ means is a project currentl
 
 ## Natural Language Processing
 
-- [nlp-tutorial](https://github.com/graykode/nlp-tutorial) : Natural Language Processing Tutorial for Deep Learning Researchers  [![GitHub stars](https://img.shields.io/github/stars/graykode/nlp-tutorial.svg)](https://github.com/graykode/nlp-tutorial/stargazers)
-- [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) : Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation [![GitHub stars](https://img.shields.io/github/stars/graykode/gpt-2-Pytorch.svg)](https://github.com/graykode/gpt-2-Pytorch/stargazers)
-
-- [modelsummary](https://github.com/graykode/modelsummary) : python pip package, Model summary in PyTorch similar to `model.summary()` in Keras [![GitHub stars](https://img.shields.io/github/stars/graykode/modelsummary.svg)](https://github.com/graykode/modelsummary/stargazers)
-- [nlpblock](https://github.com/graykode/nlpblock)🏗️: Use All NLP models abstracted to block level with Pytorch.  [![GitHub stars](https://img.shields.io/github/stars/graykode/nlpblock.svg)](https://github.com/graykode/nlpblock/stargazers)
+- [nlp-tutorial](https://github.com/graykode/nlp-tutorial) : Natural Language Processing Tutorial for Deep Learning Researchers.  [![GitHub stars](https://img.shields.io/github/stars/graykode/nlp-tutorial.svg)](https://github.com/graykode/nlp-tutorial/stargazers)
+- [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) : Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation. [![GitHub stars](https://img.shields.io/github/stars/graykode/gpt-2-Pytorch.svg)](https://github.com/graykode/gpt-2-Pytorch/stargazers)
+- [modelsummary](https://github.com/graykode/modelsummary) : python pip package, Model summary in PyTorch similar to `model.summary()` in Keras. [![GitHub stars](https://img.shields.io/github/stars/graykode/modelsummary.svg)](https://github.com/graykode/modelsummary/stargazers)
+- [nlpblock](https://github.com/graykode/nlpblock)🏗️: Use All NLP models abstracted to block level with Pytorch.[![GitHub stars](https://img.shields.io/github/stars/graykode/nlpblock.svg)](https://github.com/graykode/nlpblock/stargazers)
+- [khuthon2018](https://github.com/graykode/khuthon2018) : An Analysis of Restaurant Review Using Deep Learning(TextCNN) in Hackathon. [![GitHub stars](https://img.shields.io/github/stars/graykode/khuthon2018.svg)](https://github.com/graykode/khuthon2018/stargazers)
 
 
 
 ## Computer Vision
 
-- [vision-tutorial](https://github.com/graykode/vision-tutorial)🏗️ : Computer Vision Tutorial for Deep Learning Researchers [![GitHub stars](https://img.shields.io/github/stars/graykode/vision-tutorial.svg)](https://github.com/graykode/vision-tutorial/stargazers)
+- [vision-tutorial](https://github.com/graykode/vision-tutorial)🏗️ : Computer Vision Tutorial for Deep Learning Researchers. [![GitHub stars](https://img.shields.io/github/stars/graykode/vision-tutorial.svg)](https://github.com/graykode/vision-tutorial/stargazers)
+- [DAC(Deep Adaptive Image Clustering)](https://github.com/graykode/DAC) : Deep Adaptive Image Clustering Paper Implementation. [![GitHub stars](https://img.shields.io/github/stars/graykode/DAC.svg)](https://github.com/graykode/DAC/stargazers)
 
 
 
@@ -47,6 +49,6 @@ list up my projects about open source. emoji 🏗️ means is a project currentl
 
 
 
-## Linux
+## Linux Kernel
 
-- linux-0.11-review🏗️ : very old linux kernel code review
+- [linux0.11-kernel-code-review](https://github.com/graykode/linux0.11-kernel-code-review)🏗️ : The old Linux kernel source ver 0.11 review with line by line for OS lecture. [![GitHub stars](https://img.shields.io/github/stars/graykode/linux0.11-kernel-code-review.svg)](https://github.com/graykode/linux0.11-kernel-code-review/stargazers)
