@@ -22,7 +22,7 @@
 
 ## Study
 
-- [DeepLearning-Study](https://github.com/graykode/DeepLearning-Study)🏗️ : This is repository for DeepLearning Study in Kyung Hee University, D.COM  [![GitHub stars](https://img.shields.io/github/stars/graykode/DeepLearning-Study.svg)](https://github.com/graykode/DeepLearning-Study/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/DeepLearning-Study.svg)](https://github.com/graykode/DeepLearning-Study/network/members)
+- [DeepLearning-Study](https://github.com/graykode/DeepLearning-Study) : This is repository for DeepLearning Study in Kyung Hee University, D.COM  [![GitHub stars](https://img.shields.io/github/stars/graykode/DeepLearning-Study.svg)](https://github.com/graykode/DeepLearning-Study/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/DeepLearning-Study.svg)](https://github.com/graykode/DeepLearning-Study/network/members)
 
 
 
@@ -52,3 +52,4 @@
 ## Linux Kernel
 
 - [linux0.11-kernel-code-review](https://github.com/graykode/linux0.11-kernel-code-review)🏗️ : The old Linux kernel source ver 0.11 review with line by line for OS lecture. [![GitHub stars](https://img.shields.io/github/stars/graykode/linux0.11-kernel-code-review.svg)](https://github.com/graykode/linux0.11-kernel-code-review/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/linux0.11-kernel-code-review.svg)](https://github.com/graykode/linux0.11-kernel-code-review/network/members)
+
