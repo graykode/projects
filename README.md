@@ -46,7 +46,7 @@
 ## Machine Learning Serving in Cloud Computing
 
 - [ml-serving-tutorial](https://github.com/graykode/ml-serving-tutorial)🏗️ : very basic tutorial for who interesting in Machine Learning Serving with Docker, Kubernetes, Kubeflow [![GitHub stars](https://img.shields.io/github/stars/graykode/ml-serving-tutorial.svg)](https://github.com/graykode/ml-serving-tutorial/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/ml-serving-tutorial.svg)](https://github.com/graykode/ml-serving-tutorial/network/members)
-
+- [modelaverage](https://github.com/graykode/modelaverage)🏗️ : tf-keras, make the average of model weight in same model.[![GitHub stars](https://img.shields.io/github/stars/graykode/modelaverage.svg)](https://github.com/graykode/modelaverage/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/modelaverage.svg)](https://github.com/graykode/modelaverage/network/members)
 
 
 ## Linux Kernel
