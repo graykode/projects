@@ -54,7 +54,7 @@
 
 ## Cloud Computing
 
-- [kubernetes-glusterfs-aws](file system clustering as glusterfs in kubernetes environment on aws platform) : file system clustering as glusterfs in kubernetes environment on aws platform [![GitHub stars](https://img.shields.io/github/stars/graykode/kubernetes-glusterfs-aws.svg)](https://github.com/graykode/kubernetes-glusterfs-aws/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/kubernetes-glusterfs-aws.svg)](https://github.com/graykode/kubernetes-glusterfs-aws/network/members)
+- [kubernetes-glusterfs-aws](https://github.com/graykode/kubernetes-glusterfs-aws) : file system clustering as glusterfs in kubernetes environment on aws platform : file system clustering as glusterfs in kubernetes environment on aws platform [![GitHub stars](https://img.shields.io/github/stars/graykode/kubernetes-glusterfs-aws.svg)](https://github.com/graykode/kubernetes-glusterfs-aws/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/kubernetes-glusterfs-aws.svg)](https://github.com/graykode/kubernetes-glusterfs-aws/network/members)
 
 
 
