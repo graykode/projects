@@ -4,7 +4,7 @@
 
 - Education : [Kyung Hee Univ](http://old_www.khu.ac.kr/eng/index.jsp), Computer Engineering(Undergraduate Yet!)
 - Email : nlkey2022@gmail.com
-- My Blog : http://graykode.github.io🏗️
+- My Blog : [http://graykode.github.io](http://graykode.github.io) 🏗️
 - A student of education in Best of Best 5 with Analysis of exploit(Kitri, 2016~2017)
 - Fellow of the Computer Engineering Club [D.COM](http://dcomstudy.com)
 - Interesting in Open Source about Machine Learning(NLP, Vision), Serving for Cloud Computing in Machine Learning
@@ -49,6 +49,13 @@
 - [ml-serving-tutorial](https://github.com/graykode/ml-serving-tutorial)🏗️ : very basic tutorial for who interesting in Machine Learning Serving with Docker, Kubernetes, Kubeflow [![GitHub stars](https://img.shields.io/github/stars/graykode/ml-serving-tutorial.svg)](https://github.com/graykode/ml-serving-tutorial/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/ml-serving-tutorial.svg)](https://github.com/graykode/ml-serving-tutorial/network/members)
 - [modelaverage](https://github.com/graykode/modelaverage): tf-keras, make the average of model weight in same model.[![GitHub stars](https://img.shields.io/github/stars/graykode/modelaverage.svg)](https://github.com/graykode/modelaverage/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/modelaverage.svg)](https://github.com/graykode/modelaverage/network/members)
 - [ml-kubernetes/MNSIT](https://github.com/ml-kubernetes/MNSIT)🏗️🤝  : Simple example for learning and serving 'mnist' in kubernetes cluster[![GitHub stars](https://img.shields.io/github/stars/ml-kubernetes/MNSIT.svg)](https://github.com/ml-kubernetes/MNSIT/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/ml-kubernetes/MNSIT.svg)](https://github.com/ml-kubernetes/MNSIT/network/members)
+
+
+
+## Cloud Computing
+
+- [kubernetes-glusterfs-aws](file system clustering as glusterfs in kubernetes environment on aws platform) : file system clustering as glusterfs in kubernetes environment on aws platform [![GitHub stars](https://img.shields.io/github/stars/graykode/kubernetes-glusterfs-aws.svg)](https://github.com/graykode/kubernetes-glusterfs-aws/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/kubernetes-glusterfs-aws.svg)](https://github.com/graykode/kubernetes-glusterfs-aws/network/members)
+
 
 
 ## Linux Kernel
