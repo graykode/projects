@@ -35,6 +35,10 @@
 - [nlpblock](https://github.com/graykode/nlpblock)🏗️: Use All NLP models abstracted to block level with Pytorch.[![GitHub stars](https://img.shields.io/github/stars/graykode/nlpblock.svg)](https://github.com/graykode/nlpblock/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/nlpblock.svg)](https://github.com/graykode/nlpblock/network/members)
 - [khuthon2018](https://github.com/graykode/khuthon2018)🤝: An Analysis of Restaurant Review Using Deep Learning(TextCNN) in Hackathon. [![GitHub stars](https://img.shields.io/github/stars/graykode/khuthon2018.svg)](https://github.com/graykode/khuthon2018/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/khuthon2018.svg)](https://github.com/graykode/khuthon2018/network/members)
 
+- [KorQuAD-beginner](https://github.com/graykode/KorQuAD-beginner) : Guide KorQuAD upload to leaderboard (EM 68.947 / F1 88.468) model which only use BERT-multilingual(single). [![GitHub stars](https://img.shields.io/github/stars/graykode/KorQuAD-beginner.svg)](https://github.com/graykode/KorQuAD-beginner/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/KorQuAD-beginner.svg)](https://github.com/graykode/KorQuAD-beginner/network/members)
+
+- [toeicbert](<https://github.com/graykode/toeicbert>) : TOEIC(Test of English for International Communication) solving using pytorch-pretrained-BERT model. [![GitHub stars](https://img.shields.io/github/stars/graykode/toeicbert.svg)](https://github.com/graykode/toeicbert/stargazers)  [![GitHub stars](https://img.shields.io/github/forks/graykode/toeicbert.svg)](https://github.com/graykode/toeicbert/network/members)
+
 
 
 ## Computer Vision
@@ -61,4 +65,3 @@
 ## Linux Kernel
 
 - [linux0.11-kernel-code-review](https://github.com/graykode/linux0.11-kernel-code-review)🏗️ : The old Linux kernel source ver 0.11 review with line by line for OS lecture. [![GitHub stars](https://img.shields.io/github/stars/graykode/linux0.11-kernel-code-review.svg)](https://github.com/graykode/linux0.11-kernel-code-review/stargazers) [![GitHub stars](https://img.shields.io/github/forks/graykode/linux0.11-kernel-code-review.svg)](https://github.com/graykode/linux0.11-kernel-code-review/network/members)
-
