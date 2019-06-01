@@ -4,7 +4,6 @@
 
 - Education : [Kyung Hee Univ](http://old_www.khu.ac.kr/eng/index.jsp), Computer Engineering(Undergraduate Yet!)
 - Email : nlkey2022@gmail.com
-- My Blog : [http://graykode.github.io](http://graykode.github.io) 🏗️
 - A student of education in Best of Best 5 with Analysis of exploit(Kitri, 2016~2017)
 - Fellow of the Computer Engineering Club [D.COM](http://dcomstudy.com)
 - Interesting in Open Source about Machine Learning(NLP, Vision), Serving for Cloud Computing in Machine Learning
